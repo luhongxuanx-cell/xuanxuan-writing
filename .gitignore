@@ -1,0 +1,25 @@
+.DS_Store
+__pycache__/
+*.pyc
+.build/
+.build-home/
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.mobileprovision
+*.p12
+.env
+.env.*
+.demo-data/
+.validation/
+settings.json
+library/
+output/
+writing-app-data/
+.xuanxuan-sync/
+**/.xuanxuan-sync/
+**/snapshots/
+# Only Examples/ contains intentionally public fictional writing data.
+/projects/

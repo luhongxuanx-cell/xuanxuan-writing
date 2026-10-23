@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "id": "lighthouse-demo",
+      "name": "雾港来信（虚构演示）",
+      "description": "完全虚构的三章演示作品，仅用于功能展示。",
+      "path": "projects/lighthouse-demo",
+      "createdAt": "2026-10-21T00:00:00Z",
+      "updatedAt": "2026-10-21T00:00:00Z",
+      "lastOpenedAt": "",
+      "frequencyDays": 7,
+      "chapterNamePattern": "第001章-标题.md"
+    }
+  ]
+}
